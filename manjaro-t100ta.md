@@ -1,6 +1,7 @@
 # This is a fork of [GeoffreyCoulaud's guide](https://gist.github.com/GeoffreyCoulaud/074d2c4495578c0602f6180bc1a2e6eb)
 ## Changes
 * Since the 32 bit Manjaro is no longer available, I have attached a zip of the folder /boot/grub/i386-efi he mentioned in the guide.
+* Latest update of Manjaro (Dec 2022) will cause no audio problem. Replace pulse audio with Manjaro-pipewire by: pamac install manjaro-pipewire.
 
 # How to setup Manjaro on the Asus t100ta
 Based on [this tutorial by *jbMacAZ* on forums.manjaro.org](https://forum.manjaro.org/t/manjaro-usb-with-ia32-efi-support/77180/6)  
